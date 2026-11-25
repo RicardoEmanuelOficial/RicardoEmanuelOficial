@@ -19,7 +19,7 @@ nas URLs dos cartões e do gráfico de atividade.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Ricardo-devn">
+  <a href="https://www.youtube.com/@RicardoDevOfficial">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-emanuel-boffo-gobbi/">
